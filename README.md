@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelroxas
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... Web Development through [https://www.avionschool.com/](Avion School)
+- 🌱 I’m currently learning ... Web Development through [Avion School](avionschool.com)
 - 💞️ I’m looking to collaborate on ... Full Stack web projects! 
 - 📫 How to reach me ... Get in touch through my e-mail! work.michaelroxas@gmail.com
 
